@@ -1,5 +1,6 @@
 # 自己紹介
-制御情報工学科の2年生
+制御情報工学科の3年生
+[![npnp](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnpnp)](https://atcoder.jp/users/npnp)
 
 # 経歴
 ## 小学生
